@@ -1,0 +1,53 @@
+{
+  "name": "Verifier",
+  "version": "0.0.1",
+  "description": "A Discord bot created by William Z",
+  "main": "bot.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "bufferutil": "^3.0.1",
+    "chalk": "^2.1.0",
+    "discord.js": "github:hydrabolt/discord.js",
+    "erlpack": "github:discordapp/erlpack",
+    "events": "^1.1.1",
+    "fs": "0.0.1-security",
+    "fs-path": "0.0.23",
+    "jimp": "^0.2.28",
+    "lodash": "^4.17.4",
+    "long": "^3.2.0",
+    "moment": "^2.18.1",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "prism-media": "0.0.1",
+    "regression": "^2.0.0",
+    "safe-buffer": "^5.1.0",
+    "snekfetch": "^3.1.8",
+    "tweetnacl": "^1.0.0",
+    "ultron": "^1.1.0",
+    "util": "^0.10.3",
+    "uws": "^0.14.5",
+    "ws": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzhouwzhou/verifier.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "William Z",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/wzhouwzhou/verifier/issues"
+  },
+  "homepage": "https://github.com/wzhouwzhou/verifier#readme",
+  "engines": {
+    "node": "8.5.0",
+    "npm": "5.4.2"
+  }
+}
